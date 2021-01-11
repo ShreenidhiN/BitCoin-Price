@@ -1,0 +1,2 @@
+# BitCoin-Price
+BitCoin Price, developed using Python using data from Yahoo Finance. The white noise in the data checked using the Ljung Box test. Finding standard deviation, moving average and bollinger bands as parameters of the closing prices, to classify whether it goes up or down, using Logistic regression, Support vector classifier and random forest. The price prediction models using an ARIMA time series model.
